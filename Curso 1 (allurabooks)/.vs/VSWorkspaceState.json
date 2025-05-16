@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\alurabooks",
-    "\\alurabooks\\src\\Components",
-    "\\alurabooks\\src\\Components\\Logo"
+    "\\alurabooks\\src"
   ],
-  "SelectedNode": "\\alurabooks\\src",
+  "SelectedNode": "\\alurabooks\\src\\index.css",
   "PreviewInSolutionExplorer": false
 }
