@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\alurabooks",
-    "\\alurabooks\\src"
+    "\\alurabooks\\src",
+    "\\alurabooks\\src\\Components",
+    "\\alurabooks\\src\\Components\\Search"
   ],
-  "SelectedNode": "\\alurabooks\\src\\index.css",
+  "SelectedNode": "\\alurabooks\\src\\Components\\Search\\DataSearch.js",
   "PreviewInSolutionExplorer": false
 }
