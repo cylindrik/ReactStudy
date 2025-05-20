@@ -4,8 +4,10 @@
     "\\alurabooks",
     "\\alurabooks\\src",
     "\\alurabooks\\src\\Components",
-    "\\alurabooks\\src\\Components\\Search"
+    "\\alurabooks\\src\\Components\\Card",
+    "\\alurabooks\\src\\Components\\Releases",
+    "\\alurabooks\\src\\Components\\Title"
   ],
-  "SelectedNode": "\\alurabooks\\src\\Components\\Search\\DataSearch.js",
+  "SelectedNode": "\\alurabooks\\src\\Components\\Title\\index.js",
   "PreviewInSolutionExplorer": false
 }
